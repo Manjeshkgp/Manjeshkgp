@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjeshkgp&label=Profile%20views&color=0e75b6&style=flat" alt="manjeshkgp" /> </p>
 
-- 🌱 I’m currently learning **system design and trying to apply them**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **typescript projects**
+- 👯 I’m looking to collaborate on **NextJS/MERN projects**
 
-- 📝 I regularly write articles on [https://manjeshkgp.hashnode.dev/](https://manjeshkgp.hashnode.dev/)
+- 📝 Sometimes I write articles on [https://manjeshkgp.hashnode.dev/](https://manjeshkgp.hashnode.dev/)
 
 - 💬 Ask me about **react, nextjs, typescript, tailwind**
 
