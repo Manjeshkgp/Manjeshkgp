@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjeshkgp&label=Profile%20views&color=0e75b6&style=flat" alt="manjeshkgp" /> </p>
 
-- 🌱 I’m currently learning **Rust** and **C#**
+- 🌱 I’m currently learning **NestJs** and **C#**
 
 - 👯 I’m looking to collaborate on **NextJS/MERN projects**
 
